@@ -1,0 +1,88 @@
+#body{
+    background-color: bisque;
+    padding: 100px 
+}
+:root{
+    --font-name: 'Outfit';
+}
+#p1{
+    font-family: var(--font-name);
+}
+#sec1{
+    font-family: var(--font-name);
+    font-weight: 500%;
+    margin: auto;
+    width: 50%;
+    padding: 10px 30px 10px 30px;   
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+}
+img{
+    display: block;
+    margin: auto;
+    width:100%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+#head1{
+    font-size: 250%;
+    font-family: 'young_serif';
+}
+#div2{
+    padding: 5px 0px 5px 20px;
+    background-color: rgba(227, 144, 217, 0.152);
+    border-radius: 10px;
+}
+#head4{
+    margin: 0px;
+    font-size: 120%;
+    color: rgb(106, 55, 106);
+}
+#pepti{
+    margin: 0px;
+    padding: 10px 10px 10px 20px;
+}
+.li1{
+    margin-bottom: 5px;
+    padding-left: 5%;
+}
+.head3{
+    color:rgb(153, 71, 27);
+    font-size: 170%;
+    margin-bottom: auto;
+}
+#ingre{
+    padding-left: 7%;
+}
+.li2{
+    margin-bottom: 5px;
+    padding-left: 3%;
+}
+#instruc{
+    padding-left:6%;
+}
+.li3{
+    margin-bottom: 5px;
+    padding-left: 4%;
+}
+#Instructions{
+    border-top: 1px solid #ccc;
+    padding-top: 30px;
+}
+#nutri{
+    border-top: 1px solid #ccc;
+    padding-top: 30px;
+}
+{
+    border-top: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+.cot1{
+    padding-left: 25%;
+}
+.cot2{
+    color:rgb(147, 74, 35);
+    padding-left: 230%;
+}
